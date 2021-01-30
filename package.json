@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Api personale messa su heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:" "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alumina14/rent-car-luxury.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alumina14/rent-car-luxury/issues"
+  },
+  "homepage": "https://github.com/Alumina14/rent-car-luxury#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
