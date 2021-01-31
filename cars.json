@@ -6,11 +6,11 @@
             "modello": "z4",
             "colore": "grigio",
             "targa": "ff000aa",
-            "costo-noleggio": "200 euro",
-            "pacchetti-extra-km": "10 euro",
-            "data-ritiro": "29/01/2021",
-            "data-consegna": "29/03/2021",
-            "image": "/images/bmw-z4.jpg"
+            "costonoleggio": "200 euro",
+            "pacchettiextrakm": "10 euro",
+            "dataritiro": "29/01/2021",
+            "dataconsegna": "29/03/2021",
+            "image": "images/bmw-z4.jpg"
         },
         {
             "id": "1",
@@ -18,11 +18,11 @@
             "modello": "f8",
             "colore": "nero",
             "targa": "bb100aa",
-            "costo-noleggio": "300 euro",
-            "pacchetti-extra-km": "30 euro",
-            "data-ritiro": "29/01/2022",
-            "data-consegna": "29/03/2023",
-            "image": "/images/ferrari-f8.jpeg"
+            "costonoleggio": "300 euro",
+            "pacchettiextrakm": "30 euro",
+            "dataritiro": "29/01/2022",
+            "dataconsegna": "29/03/2023",
+            "image": "images/ferrari-f8.jpeg"
         },
         {
             "id": "2",
@@ -30,11 +30,11 @@
             "modello": "812",
             "colore": "rosso",
             "targa": "bb321bb",
-            "costo-noleggio": "300 euro",
-            "pacchetti-extra-km": "30 euro",
-            "data-ritiro": "29/12/2022",
-            "data-consegna": "29/03/2023",
-            "image": "/images/ferrari-812.jpg"
+            "costonoleggio": "300 euro",
+            "pacchettiextrakm": "30 euro",
+            "dataritiro": "29/12/2022",
+            "dataconsegna": "29/03/2023",
+            "image": "images/ferrari-812.jpg"
         },
         {
             "id": "3",
@@ -42,11 +42,11 @@
             "modello": "tipo",
             "colore": "bianco",
             "targa": "cd999aa",
-            "costo-noleggio": "50 euro",
-            "pacchetti-extra-km": "5 euro",
-            "data-ritiro": "15/03/2022",
-            "data-consegna": "14/03/2023",
-            "image": "/images/fiat-tipo.jpeg"
+            "costonoleggio": "50 euro",
+            "pacchettiextrakm": "5 euro",
+            "dataritiro": "15/03/2022",
+            "dataconsegna": "14/03/2023",
+            "image": "images/fiat-tipo.jpeg"
         },
         {
             "id": "4",
@@ -54,11 +54,11 @@
             "modello": "mx-5",
             "colore": "rosso",
             "targa": "hg887fe",
-            "costo-noleggio": "20 euro",
-            "pacchetti-extra-km": "7 euro",
-            "data-ritiro": "15/03/2020",
-            "data-consegna": "14/03/2024",
-            "image": "/images/mazda-mx-5.jpg"
+            "costonoleggio": "20 euro",
+            "pacchettiextrakm": "7 euro",
+            "dataritiro": "15/03/2020",
+            "dataconsegna": "14/03/2024",
+            "image": "images/mazda-mx-5.jpg"
         },
         {
             "id": "5",
@@ -66,11 +66,11 @@
             "modello": "amg-gt",
             "colore": "blu",
             "targa": "io524rt",
-            "costo-noleggio": "180 euro",
-            "pacchetti-extra-km": "28 euro",
-            "data-ritiro": "15/03/2019",
-            "data-consegna": "14/09/2021",
-            "image": "/images/mercedes-amg-gt.jpg"
+            "costonoleggio": "180 euro",
+            "pacchettiextrakm": "28 euro",
+            "dataritiro": "15/03/2019",
+            "dataconsegna": "14/09/2021",
+            "image": "images/mercedes-amg-gt.jpg"
         },
         {
             "id": "6",
@@ -78,11 +78,11 @@
             "modello": "911",
             "colore": "grigio",
             "targa": "oo000pp",
-            "costo-noleggio": "240 euro",
-            "pacchetti-extra-km": "85 euro",
-            "data-ritiro": "26/12/2021",
-            "data-consegna": "14/10/2025",
-            "image": "/images/porsche-911.jpg"
+            "costonoleggio": "240 euro",
+            "pacchettiextrakm": "85 euro",
+            "dataritiro": "26/12/2021",
+            "dataconsegna": "14/10/2025",
+            "image": "images/porsche-911.jpg"
         },
         {
             "id": "7",
@@ -90,11 +90,11 @@
             "modello": "taycan",
             "colore": "bianco",
             "targa": "oo000zz",
-            "costo-noleggio": "260 euro",
-            "pacchetti-extra-km": "85 euro",
-            "data-ritiro": "30/10/2021",
-            "data-consegna": "26/01/2024",
-            "image": "/images/porsche-taycan.jpg"
+            "costonoleggio": "260 euro",
+            "pacchettiextrakm": "85 euro",
+            "dataritiro": "30/10/2021",
+            "dataconsegna": "26/01/2024",
+            "image": "images/porsche-taycan.jpg"
         },
         {
             "id": "8",
@@ -102,11 +102,11 @@
             "modello": "yaris",
             "colore": "rosso",
             "targa": "oi800pz",
-            "costo-noleggio": "80 euro",
-            "pacchetti-extra-km": "6 euro",
-            "data-ritiro": "26/11/2022",
-            "data-consegna": "03/01/2024",
-            "image": "/images/toyota-yaris.jpg"
+            "costonoleggio": "80 euro",
+            "pacchettiextra-km": "6 euro",
+            "dataritiro": "26/11/2022",
+            "dataconsegna": "03/01/2024",
+            "image": "images/toyota-yaris.jpg"
         },
         {
             "id": "9",
@@ -114,11 +114,11 @@
             "modello": "golf",
             "colore": "blu",
             "targa": "ui997li",
-            "costo-noleggio": "120 euro",
-            "pacchetti-extra-km": "14 euro",
-            "data-ritiro": "30/08/2018",
-            "data-consegna": "04/02/2023",
-            "image": "/images/volkswagen-golf.jpg"
+            "costonoleggio": "120 euro",
+            "pacchettiextrakm": "14 euro",
+            "dataritiro": "30/08/2018",
+            "dataconsegna": "04/02/2023",
+            "image": "images/volkswagen-golf.jpg"
         }
     ]
 }
